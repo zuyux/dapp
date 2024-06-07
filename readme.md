@@ -1,3 +1,5 @@
+![Alt text](9ec13e82-673e-4d15-a6da-37132adb1526.jpeg)
+
 <b>zuyux</b> explota las capacidades de los contratos inteligentes para lograr la participación en concursos digitalizados de proyectos y la asignación transparente de fondos, fomentando la innovación y el crecimiento dentro de la comunidad de diseño digital. El proyecto será de código abierto bajo la licencia MIT, promoviendo la transparencia y la colaboración. Integrará la autenticación Worldcoin ID para validar perfiles, asegurando la confianza y la seguridad en todas las transacciones.
 
 
