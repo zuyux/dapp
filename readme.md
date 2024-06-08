@@ -30,6 +30,10 @@
 7. **Winner Determination:**
    - After all entries have been evaluated, the smart contract calculates the final scores and determines the contest winners based on the judging results.
 
+### Voting Parameters
+  
+   The voting parameters for the contest can be set as a 50/50 weight between Jury members and Public members. Jury selections are managed by the zyxDAO, ensuring a fair and transparent selection process. This setup allows both designated Jury members and the broader public to have an equal say in determining the contest winners, promoting inclusivity and community engagement.
+
 8. **Reward Distribution:**
    - The smart contract automatically distributes rewards to the winners' blockchain addresses, ensuring prompt and secure payment without the need for intermediaries.
 
